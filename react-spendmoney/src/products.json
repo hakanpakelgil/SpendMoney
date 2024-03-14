@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "title":"Sakız",
+        "price": 0.5,
+        "image":"https://p7.hiclipart.com/preview/19/628/932/chewing-gum-extra-wrigley-company-eclipse-orbit-chewing-gum.jpg"
+    },
+    {
+        "id":2,
+        "title":"Kola",
+        "price": 6,
+        "image": "https://w7.pngwing.com/pngs/742/816/png-transparent-coca-cola-can-illustration-coca-cola-soft-drink-surge-pepsi-coke-sweetness-cola-sugar-thumbnail.png"
+    },
+    {
+        "id":3,
+        "title":"Ayakkabı",
+        "price": 400,
+        "image" : "https://img.freepik.com/premium-psd/blue-sneakers-shoes-isolated-transparent-background-png-psd_888962-1604.jpg"
+    },
+    {
+        "id":4,
+        "title":"Araba",
+        "price": 400000,
+        "image" : "https://w7.pngwing.com/pngs/38/708/png-transparent-car-mercedes-car-love-compact-car-vehicle.png"
+    }
+]
